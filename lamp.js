@@ -1,6 +1,6 @@
 var acender = document.getElementById('acender')
 var apagar = document.getElementById('apagar')
-var foto = document.getElementById('foto')
+var foto = document.getElementById('lampada')
 function ac() {
     foto.src = 'acesa.jpg'
 }
